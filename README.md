@@ -4,16 +4,17 @@ Projeto de um sistema automatizado de irrigação de plantas que consegue medir 
 
 # Componentes
 
-•	Sensor de umidade do solo
-•	Bomba de agua
-•	Módulo Wifi
-•	Fios de ligação
-•	Tudo de agua
-•	Arduino UNOR3
-•	LED
-•	Sensor medidor de temperatura
-•	Bateria 9V
-•	Breadboard
+•	Sensor de umidade do solo <br />
+•	Bomba de agua <br />
+•	Módulo Wifi <br />
+•	Fios de ligação <br />
+•	Tudo de agua <br />
+•	Arduino UNOR3 <br />
+•	LED <br />
+•	Sensor medidor de temperatura <br />
+•	Bateria 9V <br />
+•	Breadboard <br />
+
 
 # Esquema elétrico de montagem
 ![image](https://user-images.githubusercontent.com/33455029/120050916-f21f6000-bff4-11eb-98cd-b06cc213acfb.png)
