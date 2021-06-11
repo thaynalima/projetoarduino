@@ -16,6 +16,8 @@ Projeto de um sistema automatizado de irrigação de plantas que consegue medir 
 •	Regulador de tensão <br />
 •	Bateria 9V <br />
 •	Breadboard <br />
+•	Resistor <br />
+
 
 
 # Esquema elétrico de montagem
